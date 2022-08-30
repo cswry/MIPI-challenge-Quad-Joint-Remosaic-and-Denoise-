@@ -1,1 +1,1 @@
-# MIPI-challenge-Quad-Joint-Remosaic-and-Denoise-
+# MIPI-challenge-Quad-Joint-Remosaic-and-Denoise
